@@ -17,6 +17,6 @@ public class TenantServlet extends HttpServlet {
             throws ServletException, IOException {
         response.setContentType("text/html");
         PrintWriter out = response.getWriter();
-        out.println("<h2>Apartment Maintenance System Active</h2>");
+        out.println("<h2>Maintenance System Active</h2>");
     }
 }
