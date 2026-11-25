@@ -11,7 +11,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Apartment Maintenance System</name>
+    <name>Apartment Maintenance</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
